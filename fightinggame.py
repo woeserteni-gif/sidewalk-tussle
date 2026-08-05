@@ -11,7 +11,7 @@ vec = pygame.math.Vector2
 # main values
 ACC = 0.8  # Lowered from 5 to prevent uncontrollable speeds with friction
 FRIC = -0.15 # Adjusted friction for smoother, controllable movement
-GRAV = 0.5 
+GRAV = 1
 FPS = 60 
 SCREEN_WIDTH = 1000 
 SCREEN_HEIGHT = 600 
